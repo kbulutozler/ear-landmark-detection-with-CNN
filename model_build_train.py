@@ -18,6 +18,9 @@ hist = train_my_CNN_model(my_model, X_train, y_train)
 # Saving the model
 save_my_CNN_model(my_model, 'my_model')
 
+# Saving the model
+summarize_my_CNN_model(my_model)
+
 
 
 

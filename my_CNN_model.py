@@ -26,12 +26,12 @@ def get_my_CNN_model_architecture():
     model.add(Dropout(0.3))
 
     model.add(Flatten())
-
+    model.add(RepeatVector(2))
     model.add(Dense(64, activation='relu'))
     model.add(Dense(128, activation='relu'))
     model.add(Dense(256, activation='relu'))
     model.add(Dense(64, activation='relu'))
-    model.add(RepeatVector(2))
+
     model.add(Dense(55))
 
     return model
@@ -52,3 +52,6 @@ def test_my_CNN_model(model, X_test, Y_test):
     preds = model.evaluate(X_test, Y_test)
     print("Loss = " + str(preds[0]))
     print("Test Accuracy = " + str(preds[1]))
+
+def summarize_my_CNN_model(model):
+    model.summary()

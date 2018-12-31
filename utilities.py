@@ -18,10 +18,6 @@ def load_data(test=False):
         if(test):
             img_path = 'data/test/images/test_' + str(i) + '.png'
 
-        img_original = image.load_img(img_path)
-        image_w = img_original.size[0]
-        image_h = img_original.size[1]
-
         img = image.load_img(img_path, target_size=(96, 96))
         x = image.img_to_array(img)
         x = np.expand_dims(x, axis=0)
@@ -32,6 +28,15 @@ def load_data(test=False):
         X = np.vstack((X, x))
 
     for i in range(0, size):
+
+        img_path = 'data/train/images/train_' + str(i) + '.png'
+        if (test):
+            img_path = 'data/test/images/test_' + str(i) + '.png'
+
+        img_original = image.load_img(img_path)
+        image_w = img_original.size[0]
+        image_h = img_original.size[1]
+
 
         txt_path = 'data/train/landmarks/train_' + str(i) + '.txt'
         if(test):
