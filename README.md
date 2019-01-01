@@ -5,4 +5,4 @@ There are 55 landmarks on human ear which help identifying the person. This mode
 Original data belongs to this source: https://ibug.doc.ic.ac.uk/resources/ibug-ears/ [Collection A]
 I renamed and regrouped the content to ease preprocessing of the model. The data that is compatible with the model can be accessed from here: https://www.dropbox.com/s/rmnhbcmvp05gr1l/data.zip?dl=0
 
-![Alt text](model architecture.jpg?raw=true "Title")
+![model architecture](/model architecture.jpg)
