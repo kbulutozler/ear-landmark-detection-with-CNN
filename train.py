@@ -1,11 +1,11 @@
 from utilities import load_data
 from my_CNN_model import *
 from keras.optimizers import SGD, Adam
-import cv2
+
 
 
 # Load training set
-X_train, Y_train = load_data()
+X_train, Y_train = load_data(size=500)
 
 # Setting the CNN architecture
 my_model = get_my_CNN_model_architecture()
@@ -17,7 +17,7 @@ decay_rate = learning_rate / epochs
 momentum = 0.8
 sgd = SGD(lr=learning_rate, momentum=momentum, decay=decay_rate, nesterov=False)
 
-adam = Adam(lr=0.005, beta_1=0.9, beta_2=0.999, epsilon=None, decay=0.0, amsgrad=False)
+adam = Adam(lr=0.002, beta_1=0.9, beta_2=0.999, epsilon=None, decay=0.0, amsgrad=False)
 
 compile_my_CNN_model(my_model, optimizer = adam, loss = 'mean_squared_error', metrics = ['accuracy'])
 
