@@ -1,6 +1,6 @@
 import cv2
 from utilities import adjustDots
-for i in range(30):
+for i in range(15):
     image_name = 'data/train/images/train_' + str(i) + '.png'
     save_folder_name = 'data/train/c_images/'
     left_ear_cascade = cv2.CascadeClassifier('crop files/haarcascade_mcs_leftear.xml')
