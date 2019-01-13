@@ -109,7 +109,7 @@ def loadtocrop(test=False):
 
         cv2.rectangle(img, (smallest_x, smallest_y), (greatest_x, greatest_y), (255, 255, 255), 3)
         crop_image = img[smallest_y:greatest_y, smallest_x:greatest_x]
-        resize_image = cv2.resize(crop_image, (224, 224))
+        resize_image = cv2.resize(crop_image, (300, 300))
         cv2.imwrite(image_path, resize_image)
 
         with open(landmark_path, 'w') as f:

@@ -15,7 +15,7 @@ for i in range(0,len(X)):
 
     for p in range(len(prediction[0])):
 
-        prediction[0][p] = int(prediction[0][p] * 224)
+        prediction[0][p] = int(prediction[0][p] * 300)
 
 
     for p in range(len(Y[i])):
