@@ -9,6 +9,9 @@ def get_my_CNN_model_architecture():
     model.add(Conv2D(8, (3, 3), input_shape=(224, 224, 3), kernel_initializer='random_uniform', activation='relu'))
     model.add(MaxPooling2D(pool_size=(2, 2)))
 
+    model.add(Conv2D(8, (3, 3), activation='relu'))
+    model.add(MaxPooling2D(pool_size=(2, 2)))
+
     model.add(Conv2D(16, (5, 5), activation='relu'))
     model.add(MaxPooling2D(pool_size=(2, 2)))
 
@@ -18,8 +21,11 @@ def get_my_CNN_model_architecture():
     model.add(Conv2D(64, (7, 7), activation='relu'))
     model.add(MaxPooling2D(pool_size=(2, 2)))
 
+
+
     model.add(Flatten())
     model.add(Dense(128, activation='relu'))
+    model.add(Dense(256, activation='relu'))
     model.add(Dense(110))
 
     return model

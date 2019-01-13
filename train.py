@@ -22,7 +22,7 @@ adam = Adam(lr=0.001, beta_1=0.9, beta_2=0.999, epsilon=None, decay=0.0, amsgrad
 compile_my_CNN_model(my_model, optimizer = adam, loss = 'mean_squared_error', metrics=['accuracy'])
 
 # Training the model
-hist = train_my_CNN_model(my_model, X_train, Y_train, epochs=100, batch_size=64)
+hist = train_my_CNN_model(my_model, X_train, Y_train, epochs=300, batch_size=64)
 
 # Saving the model
 save_my_CNN_model(my_model, 'my_model')
