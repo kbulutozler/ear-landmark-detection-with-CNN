@@ -1,7 +1,140 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e010ceb2-6de8-40da-a089-77895b0b3d63" name="Default Changelist" comment="" />
+    <list default="true" id="e010ceb2-6de8-40da-a089-77895b0b3d63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bettercrop.py" beforeDir="false" afterPath="$PROJECT_DIR$/bettercrop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/createDataSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/createDataSet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crop files/haarcascade_mcs_leftear.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crop files/haarcascade_mcs_rightear.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/test_100.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/images/test_100.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/test_101.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/images/test_101.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/test_102.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/images/test_102.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/test_103.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/images/test_103.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/test_104.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/images/test_104.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/images/test_13.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/images/test_13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_33.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_34.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_35.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_36.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_37.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_37.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_38.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_39.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_41.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_41.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_44.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_44.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_47.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_50.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_55.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_55.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_64.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_70.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_74.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_74.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_79.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_79.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_86.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_86.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/test/results/result_99.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/test/results/result_99.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_10.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_104.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_104.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_11.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_12.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_13.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_14.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_15.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_16.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_17.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_18.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_19.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_20.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_21.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_22.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_23.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_24.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_25.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_26.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_27.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_28.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_29.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_293.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_293.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_3.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_30.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_31.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_314.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_314.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_32.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_33.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_34.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_344.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_344.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_348.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_348.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_35.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_36.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_37.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_37.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_38.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_39.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_4.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_40.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_5.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_6.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_7.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_8.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/images/train_9.png" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/images/train_9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_10.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_10.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_11.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_11.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_12.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_12.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_13.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_13.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_14.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_14.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_15.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_15.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_16.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_17.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_17.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_18.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_18.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_19.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_19.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_20.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_20.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_21.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_21.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_22.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_23.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_23.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_24.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_24.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_25.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_25.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_26.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_26.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_27.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_27.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_28.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_28.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_29.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_29.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_30.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_30.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_31.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_31.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_32.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_32.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_33.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_33.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_34.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_34.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_35.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_35.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_36.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_36.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_37.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_37.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_38.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_38.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_39.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_39.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_40.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_40.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_8.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_8.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/train/landmarks/train_9.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/train/landmarks/train_9.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dimensions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/modelarch.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/modelarch.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/landmarks.py" beforeDir="false" afterPath="$PROJECT_DIR$/landmarks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/best.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/bester.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/good.h5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_CNN_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_CNN_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/my_model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results.py" beforeDir="false" afterPath="$PROJECT_DIR$/results.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/summary.py" beforeDir="false" afterPath="$PROJECT_DIR$/summary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,55 +145,47 @@
     <session id="-310044666">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="8" />
+          <entry key="md" value="1" />
+          <entry key="py" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="8" />
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="py" value="1122" />
+          <entry key="py" value="8925" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="1122" />
+          <entry key="Python" value="8925" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/train.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+            <state relative-caret-position="450">
+              <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
               <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/model_test.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#85#0" expanded="true" />
+                <element signature="e#0#41#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,69 +194,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_CNN_model.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="503">
+              <caret line="49" column="22" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="22" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
-                <marker date="1546358286647" expanded="true" signature="1655:1676" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/utilities.py">
+        <entry file="file://$PROJECT_DIR$/bettercrop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
+            <state relative-caret-position="930">
+              <caret line="62" column="81" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="81" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dimensions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/landmarks.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-              <folding>
-                <element signature="e#0#10#0" expanded="true" />
-                <marker date="1546341969508" expanded="true" signature="72:73" ph="..." />
+                <element signature="e#1#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/results.py">
+        <entry file="file://$PROJECT_DIR$/utilities.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="90">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
               <folding>
-                <element signature="e#0#85#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/summary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
-              <folding>
-                <element signature="e#1#67#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -146,21 +236,35 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>gray</find>
+      <find>print</find>
+      <find>int</find>
+      <find>k</find>
+      <find>original</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/model_test.py" />
-        <option value="$PROJECT_DIR$/dimensions.py" />
-        <option value="$PROJECT_DIR$/landmarks.py" />
-        <option value="$PROJECT_DIR$/summary.py" />
         <option value="$PROJECT_DIR$/model_build_train.py" />
-        <option value="$PROJECT_DIR$/results.py" />
-        <option value="$PROJECT_DIR$/utilities.py" />
-        <option value="$PROJECT_DIR$/my_CNN_model.py" />
+        <option value="$PROJECT_DIR$/crop.py" />
+        <option value="$PROJECT_DIR$/createDataSet.py" />
+        <option value="$PROJECT_DIR$/dimensions.py" />
+        <option value="$PROJECT_DIR$/align.py" />
         <option value="$PROJECT_DIR$/train.py" />
+        <option value="$PROJECT_DIR$/bettercrop.py" />
+        <option value="$PROJECT_DIR$/model_test.py" />
+        <option value="$PROJECT_DIR$/landmarks.py" />
+        <option value="$PROJECT_DIR$/my_CNN_model.py" />
+        <option value="$PROJECT_DIR$/results.py" />
+        <option value="$PROJECT_DIR$/summary.py" />
+        <option value="$PROJECT_DIR$/visual.py" />
+        <option value="$PROJECT_DIR$/utilities.py" />
       </list>
     </option>
   </component>
@@ -171,17 +275,16 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="293" />
-    <option name="y" value="493" />
-    <option name="width" value="1877" />
-    <option name="height" value="1057" />
+    <option name="x" value="43" />
+    <option name="y" value="23" />
+    <option name="width" value="1397" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -193,6 +296,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -200,6 +304,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -227,17 +336,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="43" y="23" width="1877" height="1057" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959128" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.118743345" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -245,11 +349,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" visible="true" weight="0.1626943" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,81 +369,131 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/train.py">
+    <entry file="file://$PROJECT_DIR$/align.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_CNN_model.py">
+    <entry file="file://$PROJECT_DIR$/crop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="225">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="55" />
           <folding>
-            <element signature="e#0#35#0" expanded="true" />
-            <marker date="1546358286647" expanded="true" signature="1655:1676" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#85#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utilities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="19" column="60" selection-start-line="19" selection-start-column="60" selection-end-line="19" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dimensions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/landmarks.py">
+    <entry file="file://$PROJECT_DIR$/model_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding>
-            <element signature="e#0#10#0" expanded="true" />
-            <marker date="1546341969508" expanded="true" signature="72:73" ph="..." />
+            <element signature="e#0#85#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/summary.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        <state relative-caret-position="60">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
           <folding>
             <element signature="e#1#67#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/createDataSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/landmarks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <marker date="1548163569882" expanded="true" signature="79:80" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/results.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="20" column="112" selection-start-line="20" selection-start-column="112" selection-end-line="20" selection-end-column="112" />
           <folding>
             <element signature="e#0#85#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_CNN_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="10" selection-start-line="30" selection-start-column="10" selection-end-line="30" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bettercrop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="81" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="81" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utilities.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
