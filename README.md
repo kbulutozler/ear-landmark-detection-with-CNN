@@ -22,4 +22,4 @@ This model was built from scratch. It takes 224x224 images as input and outputs 
 ## Architecture
 ![model architecture](/images/modelarch.jpg)
 
-[![HitCount](http://hits.dwyl.io/kbulutozler/landmark-detection-with-CNN.svg)](http://hits.dwyl.io/kbulutozler/landmark-detection-with-CNN)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkbulutozler%2Fear-landmark-detection-with-CNN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
